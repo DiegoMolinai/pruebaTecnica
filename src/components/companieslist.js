@@ -1,6 +1,6 @@
 import React from 'react';
 import Company from './company';
-import companiesData from '../data/datos.json';
+import companiesData from '../data/combinedData.json';
 
 const CompaniesLists = () => {
   return (
